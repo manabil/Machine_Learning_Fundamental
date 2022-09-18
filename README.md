@@ -2,6 +2,9 @@
 
 🤷‍♂️ What's Machine Learning ?
 
+This repository include:
+  * [Stone Paper Scissor Classifier](https://github.com/manabil/Machine_Learning_Fundamental/blob/main/Batu%20Kertas%20Gunting%20Classifier.ipynb)
+
 ## 🏗 Related Subject
 <details>
 
